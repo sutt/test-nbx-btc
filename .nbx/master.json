@@ -1,0 +1,1 @@
+{"cells": [{"cell_type": "code", "execution_count": 4, "metadata": {}, "outputs": [{"name": "stdout", "output_type": "stream", "text": ["sending as teacher\n"]}], "source": ["print(\"sending as teacher\")"]}]}
